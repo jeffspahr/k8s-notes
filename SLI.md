@@ -4,15 +4,20 @@ Kubernetes : Scale - SLI/SLO
 
 [https://github.com/kubernetes/community/tree/master/sig-scalability](https://github.com/kubernetes/community/tree/master/sig-scalability)
 
+https://www.youtube.com/watch?v=UddabF9SE78
   
 
 ![](attachments/1500402/1542552.png?height=250)
 
 ![](attachments/1500402/1542551.png?height=250)
 
+https://www.youtube.com/watch?v=t_Ww6ELKl4Q
+
 ^ 11:05 Pod Density
 
 ^ 19:30 pod churn - 20 per sec
+
+https://www.youtube.com/watch?v=CpD_ttrXqfs
 
 ^ 25:17 pod density
 
